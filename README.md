@@ -40,10 +40,10 @@ Unit Testing
 Git
 
 Projects:
-🌾 Development and support of agricultural bank sites in DotNetNuke framework
-⚡ Developed and supported a microservices architecture with the DDD design pattern for a power utility provider 
-📡 Created monitoring softwares for a telecom company
-🚦 Assistance in traffic control software for the Natural Resources Organization
+-🌾 Development and support of agricultural bank sites in DotNetNuke framework
+-⚡ Developed and supported a microservices architecture with the DDD design pattern for a power utility provider 
+-📡 Created monitoring softwares for a telecom company
+-🚦 Assistance in traffic control software for the Natural Resources Organization
 
 🔮 Goals:
 Deepen expertise in cloud computing and machine learning with Azure and AWS.
