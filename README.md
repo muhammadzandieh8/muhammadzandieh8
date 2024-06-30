@@ -1,84 +1,27 @@
-## Hi Hi 👋
-
-<!--
-**muhammadzandieh8/muhammadzandieh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+Muhammad Zandieh<br><br>🌟 Mid-level .Net Developer 🌟<br><br>🔭 I’m currently working on Novin Hi-Tech Solutions<br><br>I'm a developer with 4 years of experience in C# and .Net. I love learning new tools and solving challenges.<br><br>Projects:<br><br>🌾 Development and support of agricultural bank sites in DotNetNuke framework<br><br>⚡ Developed and supported a microservices architecture with the DDD design pattern for a power utility provider<br><br>📡 Created monitoring softwares for a telecom company<br><br>🚦 Assistance in traffic control software for the Natural Resources Organization<br><br>🔮 Goals:<br><br>Deepen expertise in cloud computing and machine learning with Azure and AWS.<br><br>🚀Aspire to become a Microsoft MVP<br><br>📫 Contact:<br><br>📧 muhammadzandieh8@gmail.com<br><br>📱 +989168209686 (WhatsApp)
 
 
-Muhammad Zandieh
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@muhammadzandieh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyedmohammadzandieh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17500474) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadzandieh8&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadzandieh8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzandieh8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🌟 Mid-level .Net Developer 🌟
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammadzandieh8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🔭 I’m currently working on Novin Hi-Tech Solutions
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=muhammadzandieh8&icon=0&color=0)](https://visitcount.itsvg.in)
 
- I'm a developer with 4 years of experience in C# and .Net. I love learning new tools and solving challenges.
-
-
-Skills:
-
-
-C# |
-.Net Framework |
-ASP.NET |
-Entity Framework |
-Windows Forms |
-WPF |
-Microservices |
-LINQ |
-SQL Server |
-C++ |
-QT |
-JavaScript |
-React.js |
-Unit Testing |
-Git 
-
-Projects:
-
-
-🌾 Development and support of agricultural bank sites in DotNetNuke framework
-
-
-⚡ Developed and supported a microservices architecture with the DDD design pattern for a power utility provider 
-
-
-📡 Created monitoring softwares for a telecom company
-
-
-🚦 Assistance in traffic control software for the Natural Resources Organization
-
-
-
-🔮 Goals:
-
-
-Deepen expertise in cloud computing and machine learning with Azure and AWS.
-
-
-Aspire to become a Microsoft MVP
-
-
-
-📫 Contact:
-
-
-📧 muhammadzandieh8@gmail.com
-
-
-📱 +989168209686 (WhatsApp)
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
